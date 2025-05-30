@@ -57,10 +57,9 @@ src/
 - Meeting scheduling for peer interview practice
 - Industry-specific question banks
 
-## License
-
-MIT License
 
 ## Contributors
 
-- Your Name
+- Ujjawal Pratap Singh
+- Ashutosh Pratap Singh
+- Arpit Shukla
